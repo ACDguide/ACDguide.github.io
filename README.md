@@ -1,4 +1,4 @@
-# ACDguide.github.io
+# ACDguide
 
 The Australian Climate Data Guide contains resources for working with Climate datasets in an Australian context
 

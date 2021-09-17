@@ -10,4 +10,6 @@ It has been developed with community members from a number of institutions, incl
 
 ## Topics
 
+- [Data Management and Publishing](/Governance)
 - [Working with Big/Challenging Datasets](/BigData)
+
